@@ -1,5 +1,5 @@
 {
-  "name": "@arelstone/react-native-swipe-button",
+  "name": "@taylangocmen/react-native-swipe-button",
   "version": "0.3.0",
   "description": "A UI component for displaying a button that can be swiped.",
   "main": "dist/index.js",
@@ -26,13 +26,13 @@
     "email": "arelstone@gmail.com",
     "url": "https://github.com/arelstone"
   },
-  "homepage": "https://github.com/arelstone/react-native-swipe-button#readme",
+  "homepage": "https://github.com/taylangocmen/react-native-swipe-button#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arelstone/react-native-swipe-button.git"
+    "url": "git+https://github.com/taylangocmen/react-native-swipe-button.git"
   },
   "bugs": {
-    "url": "https://github.com/arelstone/react-native-swipe-button/issues"
+    "url": "https://github.com/taylangocmen/react-native-swipe-button/issues"
   },
   "license": "ISC",
   "devDependencies": {

@@ -1,21 +1,21 @@
-# @arelstone/react-native-swipe-button
+# @taylangocmen/react-native-swipe-button
 
 This component can be used to have an animated tabbar in your react-native app.
  
 A lot of app use the swipe to complete. This is an easy to use and highly customizable page that heklp you so you don't have to write the code over and over again
 
-![npm](https://shields.cdn.bka.li/npm/dt/@arelstone/react-native-swipe-button?style=for-the-badge)
-![npm (scoped)](https://shields.cdn.bka.li/npm/v/@arelstone/react-native-swipe-button?label=version&style=for-the-badge)
-![GitHub issues](https://shields.cdn.bka.li/github/issues/arelstone/react-native-swipe-button?style=for-the-badge)
-![GitHub pull requests](https://shields.cdn.bka.li/github/issues-pr/arelstone/react-native-swipe-button?style=for-the-badge)
+![npm](https://shields.cdn.bka.li/npm/dt/@taylangocmen/react-native-swipe-button?style=for-the-badge)
+![npm (scoped)](https://shields.cdn.bka.li/npm/v/@taylangocmen/react-native-swipe-button?label=version&style=for-the-badge)
+![GitHub issues](https://shields.cdn.bka.li/github/issues/taylangocmen/react-native-swipe-button?style=for-the-badge)
+![GitHub pull requests](https://shields.cdn.bka.li/github/issues-pr/taylangocmen/react-native-swipe-button?style=for-the-badge)
 
-![@arelstone/react-native-swipe-button](https://raw.githubusercontent.com/arelstone/react-native-swipe-button/master/docs/example.gif)
+![@taylangocmen/react-native-swipe-button](https://raw.githubusercontent.com/taylangocmen/react-native-swipe-button/master/docs/example.gif)
 
 ## Install
 ```sh
-npm i @arelstone/react-native-swipe-button
+npm i @taylangocmen/react-native-swipe-button
 // or
-yarn add @arelstone/react-native-swipe-button
+yarn add @taylangocmen/react-native-swipe-button
 ```
 
 ## Props
